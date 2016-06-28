@@ -1,4 +1,8 @@
-# NodeJS
+# JS
+
+### Web framework
+- [Sails]
+- [Koa]
 
 ### IDE
 - [ATOM](https://atom.io/)
@@ -20,10 +24,23 @@
 - [NightwatchJS](http://nightwatchjs.org/)
 - [WebdriverIO](http://webdriver.io/)
 
+### Test tool
+- [chimp](https://chimp.readme.io/)
+
 ### View framework
 - [React](https://facebook.github.io/react/)
 - [Vue.js](https://vuejs.org/)
-- [jade]
+- [pug / Jade](http://jade-lang.com/)
+- [AngularJS](https://angularjs.org/)
+
+### utility library
+- [lodash](https://lodash.com/)
+- [momentjs](http://momentjs.com/)
+
+### build tool
+- [gulp]
+- [Grunt]
+- [Webpack]
 
 ### debug
 - [node-inspector]
