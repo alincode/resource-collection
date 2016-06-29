@@ -1,3 +1,6 @@
 # Learn more list
-- [ ] Docker
 - [ ] Redis
+- [ ] Docker
+- [ ] Security
+- [ ] Redux
+- [ ] React Native

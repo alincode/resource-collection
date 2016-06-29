@@ -1,5 +1,7 @@
 # JS
 
+### Language
+- [NodeJS](https://nodejs.org/api/)
 ### Web framework
 - [Sails]
 - [Koa]
@@ -38,12 +40,15 @@
 - [momentjs](http://momentjs.com/)
 
 ### build tool
-- [gulp]
-- [Grunt]
-- [Webpack]
+- [gulp](http://gulpjs.com/)
+- [Grunt](http://gruntjs.com/)
+- [Webpack](https://webpack.github.io/)
+
+### ORM framework
+- [sequelize](http://docs.sequelizejs.com/en/latest/)
 
 ### debug
-- [node-inspector]
+- [node-inspector](https://github.com/node-inspector/node-inspector)
 
 ## going deep / rethink
 - [JS Unit Testing Good Practices & Horrible Mistakes • Roy Osherove](https://www.youtube.com/watch?v=iP0Vl-vU3XM)
