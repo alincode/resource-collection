@@ -17,3 +17,4 @@
 [前端開發筆記本](https://li-xinyang.gitbooks.io/frontend-notebook/content/index.html)
 
 [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+[ng-admin](http://ng-admin-book.marmelab.com/)
