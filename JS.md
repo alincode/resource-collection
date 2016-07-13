@@ -3,9 +3,10 @@
 ### Language
 - [NodeJS](https://nodejs.org/api/)
 
-### Web framework
+### Web application framework
 - [Sails](http://sailsjs.org/)
 - [Koa](http://koajs.com/)
+- [Express](https://expressjs.com/)
 
 ### IDE
 - [ATOM](https://atom.io/)
