@@ -9,3 +9,6 @@
 
 ## CI
 [semaphoreci](Semaphore - Continuous Integration & Deployment)
+
+## DNS
+[gandi](https://www.gandi.net/)
