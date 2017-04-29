@@ -1,7 +1,7 @@
 # Java
 
-### Testing framework
+*  Testing framework
 - [Junit](http://junit.org/)
 
-### Generate tool
+*  Generate tool
 [JHipster - Generate your Spring Boot + AngularJS apps!](https://jhipster.github.io/)

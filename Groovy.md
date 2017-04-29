@@ -1,4 +1,4 @@
 # Groovy
 
-### End to End testing framework
+*  End to End testing framework
 - [Geb](gebish.org)

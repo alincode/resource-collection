@@ -9,9 +9,11 @@
 * [Khan Academy](https://www.khanacademy.org/)
 * [Hackr.io](https://hackr.io/)
 * [UDACITY](https://www.udacity.com)
+* [Level up - Tutorials](https://leveluptutorials.com/tutorials)
 
+*  Mind Map
 
-https://coggle.it/
+* [Coggle - Simple Collaborative Mind Maps](https://coggle.it/)
 
 ## Free photos
 https://stocksnap.io/
@@ -28,6 +30,7 @@ https://www.google.com/fonts
 https://www.sharklasers.com/
 
 ## Online IDE
+
 https://jsfiddle.net/
 http://codepen.io/
 https://c9.io/
