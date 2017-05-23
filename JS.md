@@ -12,7 +12,6 @@
 
 ## IDE
 * [ATOM](https://atom.io/)
-
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 [WebStorm - Node.js Basics](https://www.youtube.com/watch?v=EMiU8zACVgA)
 
