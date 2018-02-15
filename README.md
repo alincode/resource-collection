@@ -36,6 +36,16 @@ http://www.iteye.com/
 * [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 
+## Database
+[MySQL](http://dev.mysql.com/doc/)
+
+### No SQL
+[Redis](http://redis.io/)
+[RethinkDB](http://rethinkdb.com/)
+
+### Merge Tool
+[capistrano](http://capistranorb.com/)
+
 ## Java
 * [Junit](http://junit.org/)
 *  Generate tool
@@ -55,3 +65,6 @@ http://www.iteye.com/
 
 ### Automation tool
 *  [capistrano](http://capistranorb.com/)
+
+## Nice Video
+* [Edmond Lau: "The Effective Engineer" | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
