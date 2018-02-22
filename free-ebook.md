@@ -10,7 +10,6 @@
 * [survivejs - webpack](http://survivejs.com/webpack/introduction/)
 
 * [深入理解JavaScript系列](https://wtser.gitbooks.io/deep-learn-javascript/content/)
-* [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
 * [前端開發筆記本](https://li-xinyang.gitbooks.io/frontend-notebook/content/index.html)
 
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)

@@ -12,6 +12,9 @@
 * [Level up - Tutorials](https://leveluptutorials.com/tutorials)
 * [Expand Knowledge and Improve Technical Job Skills – LiveEdu.tv](https://www.liveedu.tv/learn/)
 
+#### Open course
+* [國立交通大學開放式課程(OpenCourseWare, OCW)](http://ocw.nctu.edu.tw/index.php)
+
 ### Tutorials
 
 * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
