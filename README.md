@@ -1,5 +1,9 @@
 # Resource collection
 
+* [free ebook](free-ebook.md)
+* [online resource](online-resource.md)
+* [Javascript](js.md)
+
 ## Color
 
 * [Color Hunt - Beautiful Color Palettes](http://colorhunt.co)

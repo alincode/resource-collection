@@ -2,6 +2,7 @@
 
 ### Courses
 
+* [Machine Learning Crash Course   |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 * [Udemy](https://www.udemy.com/)
 * [Free Code Camp](https://www.freecodecamp.com/)
 * [Coursera](https://www.coursera.org/)
