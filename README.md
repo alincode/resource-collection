@@ -4,6 +4,10 @@
 * [online resource](online-resource.md)
 * [Javascript](js.md)
 
+## Dashboard UI
+
+* [Homepage - tabler.github.io - a responsive, flat and full featured admin template](https://tabler.github.io/tabler/)
+
 ## Color
 
 * [Color Hunt - Beautiful Color Palettes](http://colorhunt.co)
@@ -15,10 +19,10 @@
 
 ## community of technology
 
-https://dzone.com/
-http://stackoverflow.com/
-http://www.infoq.com/cn/
-http://www.iteye.com/
+* [DZone](https://dzone.com/)
+* [Stack Overflow - Where Developers Learn, Share, & Build Careers](http://stackoverflow.com/)
+* [InfoQ - 促进软件开发领域知识与创新的传播](http://www.infoq.com/cn/)
+* [ITeye Java编程 Spring框架 Ajax技术 agile敏捷软件开发 ruby on rails实践 - ITeye做最棒的软件开发交流社区](http://www.iteye.com/)
 
 ## Cloud Service
 
