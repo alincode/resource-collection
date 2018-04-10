@@ -3,6 +3,7 @@
 * [free ebook](free-ebook.md)
 * [online resource](online-resource.md)
 * [Javascript](js.md)
+* [Javascript](rudy.md)
 
 ## Dashboard UI
 
@@ -45,34 +46,21 @@
 
 
 ## Database
-[MySQL](http://dev.mysql.com/doc/)
+* [MySQL](http://dev.mysql.com/doc/)
 
 ### No SQL
-[Redis](http://redis.io/)
-[RethinkDB](http://rethinkdb.com/)
+
+* [Redis](http://redis.io/)
+* [RethinkDB](http://rethinkdb.com/)
 
 ### Merge Tool
-[capistrano](http://capistranorb.com/)
+
+* [capistrano](http://capistranorb.com/)
 
 ## Java
 * [Junit](http://junit.org/)
 *  Generate tool
   * [JHipster - Generate your Spring Boot + AngularJS apps!](https://jhipster.github.io/)
-
-## Ruby
-
-### Web application framework
-*  [Rails](http://rubyonrails.org/)
-
-### Ruby version management
-*  [RVM](https://rvm.io/)
-*  [rbenv](http://rbenv.org/)
-
-### Build tool
-*  [Rake](https://ruby.github.io/rake/)
-
-### Automation tool
-*  [capistrano](http://capistranorb.com/)
 
 ## Nice Video
 * [Edmond Lau: "The Effective Engineer" | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
