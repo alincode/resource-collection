@@ -5,6 +5,8 @@
 * [Javascript](js.md)
 * [Javascript](rudy.md)
 
+* [GitHub - sindresorhus/awesome: Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
 ## Dashboard UI
 
 * [Homepage - tabler.github.io - a responsive, flat and full featured admin template](https://tabler.github.io/tabler/)
